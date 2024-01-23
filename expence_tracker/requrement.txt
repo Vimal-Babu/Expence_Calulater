@@ -1,0 +1,5 @@
+Django == 5.0.1
+djangorestframework == 3.14.0
+pip == 23.3.2
+psycopg == 3.1.17
+psycopg2 == 2.9.9
